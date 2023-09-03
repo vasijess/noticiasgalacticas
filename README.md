@@ -30,6 +30,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ---
 
-[🔗 Clique aqui para acessar](https://vasijess.github.io/noticiasgalacticas/) 
+[🔗 Clique acima para Clonar!](#) 
 
 Feito com ❤️ por @vasijess 
